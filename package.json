@@ -1,0 +1,23 @@
+{
+  "name": "for20180520",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouhaoxiang/for20180520.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouhaoxiang/for20180520/issues"
+  },
+  "homepage": "https://github.com/zhouhaoxiang/for20180520#readme",
+  "dependencies": {
+    "koa": "^2.5.1",
+    "koa-static": "^4.0.3"
+  }
+}
